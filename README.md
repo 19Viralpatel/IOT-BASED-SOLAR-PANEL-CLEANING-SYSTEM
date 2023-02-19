@@ -27,6 +27,10 @@ We face a problem in code that some unnessasary delay is produce due to function
 
 ![photo_2023-02-19_18-03-04](https://user-images.githubusercontent.com/124424323/219951887-4cd73bf2-01ea-45ee-b0b6-9295ea7c7f22.jpg)
 
+## Wholw setup
+
+![photo_2023-02-19_17-21-15](https://user-images.githubusercontent.com/124424323/219952639-9423192d-8c87-441c-b662-2b83ef1d4670.jpg)
+
 
 ## You Tube
 <a href=https://youtu.be/SolaR4ohJPU> ![image](https://user-images.githubusercontent.com/124425596/219943044-52ab591f-99d9-42aa-9d2f-920951f22c1d.png)
