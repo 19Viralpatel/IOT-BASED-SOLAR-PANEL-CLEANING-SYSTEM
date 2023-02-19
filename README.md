@@ -19,3 +19,10 @@ We face a problem in code that some unnessasary delay is produce due to function
 ![photo_2023-02-19_17-21-50](https://user-images.githubusercontent.com/124424323/219948796-d4e78e13-d648-49cc-b952-a721a7abd394.jpg)
 ![photo_2023-02-19_17-22-13](https://user-images.githubusercontent.com/124424323/219951736-8d4647aa-7569-4423-bbf6-25e05becc555.jpg)
 
+## Temprary Setup On Bread Board
+
+![photo_2023-02-19_17-22-22](https://user-images.githubusercontent.com/124424323/219951856-28cee4c7-67b6-467e-a419-c3e396ecb5ea.jpg)
+
+## Prototype View
+
+![photo_2023-02-19_18-03-04](https://user-images.githubusercontent.com/124424323/219951887-4cd73bf2-01ea-45ee-b0b6-9295ea7c7f22.jpg)
