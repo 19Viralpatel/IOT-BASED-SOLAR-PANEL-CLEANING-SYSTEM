@@ -27,7 +27,7 @@ We face a problem in code that some unnessasary delay is produce due to function
 
 ![photo_2023-02-19_18-03-04](https://user-images.githubusercontent.com/124424323/219951887-4cd73bf2-01ea-45ee-b0b6-9295ea7c7f22.jpg)
 
-## Wholw setup
+## Whole Prototype Setup
 
 ![photo_2023-02-19_17-21-15](https://user-images.githubusercontent.com/124424323/219952639-9423192d-8c87-441c-b662-2b83ef1d4670.jpg)
 
