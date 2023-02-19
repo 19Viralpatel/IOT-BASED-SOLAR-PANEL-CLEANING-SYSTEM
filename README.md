@@ -9,3 +9,12 @@
 
 ## Challanges
 We face a problem in code that some unnessasary delay is produce due to functions. Also major problem faced in interfacing esp32 cam module with esp32 module. The command we give to telegram bot that command telegram bot gives further to esp32 but we want to take photo from esp32 cam module and send it to telegram bot where we have given command, So we have to merge both module(esp32 and esp32 cam).
+
+## LDR VALUES
+
+![photo_2023-02-19_17-21-24](https://user-images.githubusercontent.com/124424323/219948760-fcdbcc3f-a10b-4946-b051-f4c090cd6b64.jpg)
+
+## TELEGRAM BOT
+
+![photo_2023-02-19_17-21-50](https://user-images.githubusercontent.com/124424323/219948796-d4e78e13-d648-49cc-b952-a721a7abd394.jpg)
+
