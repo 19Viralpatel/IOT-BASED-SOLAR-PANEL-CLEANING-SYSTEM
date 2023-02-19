@@ -5,4 +5,4 @@
 
   When any one of the LDR sensor shows less intensity we will clean panel and we will check again intensity, if it shows again less value comapre to our predefine value indicates dust has been freezed on LDR sensor (or on that area of solar panel). If all LDR shows less intensity everytime so the water used for cleaning may be tedious, so user have to clean manually whole solar panel.
   
-  
+  Also it can be done automatically with the help of telegram bot. user may give command like motor on, motor off, status (intensity or dust level), photo etc. At night time ESP32 will be in sleep mode, So no false triggering occurs at night, for that we have use timer for 18 hours which is inbuilt in ESP32.
