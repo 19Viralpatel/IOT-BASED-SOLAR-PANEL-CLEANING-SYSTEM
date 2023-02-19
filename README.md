@@ -17,4 +17,5 @@ We face a problem in code that some unnessasary delay is produce due to function
 ## TELEGRAM BOT
 
 ![photo_2023-02-19_17-21-50](https://user-images.githubusercontent.com/124424323/219948796-d4e78e13-d648-49cc-b952-a721a7abd394.jpg)
+![photo_2023-02-19_17-22-13](https://user-images.githubusercontent.com/124424323/219951736-8d4647aa-7569-4423-bbf6-25e05becc555.jpg)
 
